@@ -47,7 +47,7 @@ const App = () => {
           </div>
         )}
         <div className='quote-author'>
-          <span id='author'>- {author === null ? "Unknown" : author}</span>
+          <span id='author'>{author === null ? "Unknown" : `- ${author}`}</span>
         </div>
         <div className='button-container'>
           {quote && (
