@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/insta-quote/static/css/main.eac0d440.css",
-    "main.js": "/insta-quote/static/js/main.19b4cf1e.js",
+    "main.js": "/insta-quote/static/js/main.9d7f28f5.js",
     "static/media/background.png": "/insta-quote/static/media/background.fcb6e459ee3e1128b02b.png",
     "index.html": "/insta-quote/index.html",
     "main.eac0d440.css.map": "/insta-quote/static/css/main.eac0d440.css.map",
-    "main.19b4cf1e.js.map": "/insta-quote/static/js/main.19b4cf1e.js.map"
+    "main.9d7f28f5.js.map": "/insta-quote/static/js/main.9d7f28f5.js.map"
   },
   "entrypoints": [
     "static/css/main.eac0d440.css",
-    "static/js/main.19b4cf1e.js"
+    "static/js/main.9d7f28f5.js"
   ]
 }
